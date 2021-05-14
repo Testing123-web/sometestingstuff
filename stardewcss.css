@@ -1,0 +1,51 @@
+div.background {
+    background-image: url(https://i.imgur.com/BZmfeAI.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gradnav {
+    background-color: #4e5d94
+}
+
+.nav-link {
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-link:hover {
+    color: #F64C72;
+}
+
+
+
+.navbar-brand:hover {
+    color: #F64C72;
+}
+
+.container-fluid1 {
+    background-image: url(https://geekandsundry.com/wp-content/uploads/2016/06/itp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.title {
+    -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+h1 {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    color: #B52121;
+    font-family: 'Rubik', sans-serif;
+  }
+  

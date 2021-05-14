@@ -1,0 +1,180 @@
+div.background {
+    background-color: skyblue;
+}
+
+.gradnav {
+    background-color: #4e5d94
+}
+
+.nav-link {
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-link:hover {
+    color: #F64C72;
+}
+
+
+
+.navbar-brand:hover {
+    color: #F64C72;
+}
+
+.container-fluid1 {
+    background-image: url(https://www.gamershub.me/wp-content/uploads/2020/03/top-5-this-march.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.title {
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+
+.test {
+background-color: gray;
+background-size: cover;
+clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+}
+
+.container-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.banner-background {
+    background-image: url(https://codehs.com/uploads/2755e1c2091da9a57d477de461218859);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fi0 {
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
+    font-size: 140px;
+  }
+
+.fi1 {
+    animation: fadeIn linear 2s;
+    -webkit-animation: fadeIn linear 2s;
+    -moz-animation: fadeIn linear 2s;
+    -o-animation: fadeIn linear 2s;
+    -ms-animation: fadeIn linear 2s;
+    font-size: 140px;
+  }
+
+
+  .fi2 {
+    animation: fadeIn linear 3s;
+    -webkit-animation: fadeIn linear 3s;
+    -moz-animation: fadeIn linear 3s;
+    -o-animation: fadeIn linear 3s;
+    -ms-animation: fadeIn linear 3s;
+    font-size: 140px;
+  }
+  
+.fi3 {
+    animation: fadeIn linear 4s;
+    -webkit-animation: fadeIn linear 4s;
+    -moz-animation: fadeIn linear 4s;
+    -o-animation: fadeIn linear 4s;
+    -ms-animation: fadeIn linear 4s;
+    font-size: 140px;
+  }
+  
+.fi4 {
+    animation: fadeIn linear 5s;
+    -webkit-animation: fadeIn linear 5s;
+    -moz-animation: fadeIn linear 5s;
+    -o-animation: fadeIn linear 5s;
+    -ms-animation: fadeIn linear 5s;
+    font-size: 140px;
+  }
+  
+.fi5 {
+    animation: fadeIn linear 6s;
+    -webkit-animation: fadeIn linear 6s;
+    -moz-animation: fadeIn linear 6s;
+    -o-animation: fadeIn linear 6s;
+    -ms-animation: fadeIn linear 6s;
+    font-size: 140px;
+  }
+  
+.fi6 {
+    animation: fadeIn linear 7s;
+    -webkit-animation: fadeIn linear 7s;
+    -moz-animation: fadeIn linear 7s;
+    -o-animation: fadeIn linear 7s;
+    -ms-animation: fadeIn linear 7s;
+    font-size: 140px;
+  }
+  
+.fi7 {
+    animation: fadeIn linear 8s;
+    -webkit-animation: fadeIn linear 8s;
+    -moz-animation: fadeIn linear 8s;
+    -o-animation: fadeIn linear 8s;
+    -ms-animation: fadeIn linear 8s;
+    font-size: 140px;
+  }
+  
+.fi8 {
+    animation: fadeIn linear 9s;
+    -webkit-animation: fadeIn linear 9s;
+    -moz-animation: fadeIn linear 9s;
+    -o-animation: fadeIn linear 9s;
+    -ms-animation: fadeIn linear 9s;
+    font-size: 140px;
+  }
+  
+.fi9 {
+    animation: fadeIn linear 10s;
+    -webkit-animation: fadeIn linear 10s;
+    -moz-animation: fadeIn linear 10s;
+    -o-animation: fadeIn linear 10s;
+    -ms-animation: fadeIn linear 10s;
+    font-size: 140px;
+  }
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+h1 {
+  color:#a6d5e9;
+  font-family: 'Rubik', sans-serif;
+  font-size: 5vw;
+}
+
